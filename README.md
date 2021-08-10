@@ -3,7 +3,7 @@
 
 
  
-- 👯 I’m looking to collaborate on Any Interesting Project. 
+- 👯 I’m looking to collaborate on any Interesting Project. 
 - 📫 How to reach me: mk2371972@gmail.com 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wishy-S)](https://github.com/ryo-ma/github-profile-trophy)
