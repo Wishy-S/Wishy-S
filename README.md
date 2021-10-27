@@ -3,7 +3,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="cover" />
 </div>
-<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Bonjour+tout+le+monde+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B"></div>
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hey+There+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B"></div>
 
 - 👯 I’m looking to collaborate on any Interesting Project. 
 - 📫 How to reach me:
