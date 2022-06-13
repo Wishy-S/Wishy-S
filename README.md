@@ -1,4 +1,4 @@
-## Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px">
+## Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" height="36px">
 
 <div align="center">
 <img width="100%" height = "250px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="cover" />
