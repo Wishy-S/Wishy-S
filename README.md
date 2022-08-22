@@ -29,6 +29,7 @@
 </div>
 
 <hr>
+
 ### &nbsp;Tech Stack
 
 <p align="center"> 
