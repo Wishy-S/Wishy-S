@@ -1,11 +1,18 @@
 ## Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" height="36px">
 <p align="center">
   <a href="https://leetcode.com/Wishy_s/">
-    <img src="https://cp-logo.vercel.app/leetcode/Wishy_s" alt="Leetcode rating" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode rating" />
   </a>
   <a href="https://www.codechef.com/users/wishy_s">
     <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/wishy_s&query=%24.rating&style=for-the-badge&cacheSeconds=86400" alt="Codechef rating" />
   </a>
+    <a href="https://www.hackerearth.com/@wishy_S">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth" />
+  </a>
+  <a href="https://www.hackerrank.com/mk2371972">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+  </a>
+
   <a href="https://github.com/Wishy-S?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Wishy-S?color=green&logo=github">
   </a>
@@ -25,7 +32,10 @@
 - 📫 How to reach me:
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shubham-vyas-99219a138/"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" height="35px" width="35px"></a> [![Gmail Badge](https://img.shields.io/badge/-mk2371972@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mk2371972@gmail.com)](mailto:mk2371972@gmail.com) <a href="https://wishy-s.github.io/Wishy-S/"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="50px" width="50px"></a>
+| &lt;Connect&gt; | Mail | Talk |
+|:----------------|:---------:|:------------| 
+| <a href="https://www.linkedin.com/in/shubham-vyas-99219a138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk2371972@gmail.com) | <a href="https://wishy-s.github.io/Wishy-S/"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="50px" width="50px"></a>|
+
 </div>
 
 <hr>
@@ -56,6 +66,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
 </p>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wishy-S)
 
 <hr>
 <b>&#128200; Competitive Programming</b>
