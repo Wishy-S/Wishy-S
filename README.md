@@ -84,6 +84,8 @@
   <img width="40%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
 </p>
 
+[![@wishy's Holopin board](https://holopin.me/wishy)](https://holopin.io/@wishy)
+
 #### Click [here](https://wishy-s.github.io/Portfolio/) to view my Portfolio
 
 ![](https://raw.githubusercontent.com/Wishy-S/Wishy-S/master/soc/snake.svg)
