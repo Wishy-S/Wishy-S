@@ -3,10 +3,7 @@
   <a href="https://leetcode.com/Wishy_s/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode rating" />
   </a>
-  <a href="https://www.codechef.com/users/wishy_s">
-    <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/wishy_s&query=%24.rating&style=for-the-badge&cacheSeconds=86400" alt="Codechef rating" />
-  </a>
-    <a href="https://www.hackerearth.com/@wishy_S">
+  <a href="https://www.hackerearth.com/@wishy_S">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth" />
   </a>
   <a href="https://www.hackerrank.com/mk2371972">
