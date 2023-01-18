@@ -62,8 +62,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wishy-S)
-
 <hr>
 <b>&#128200; Competitive Programming</b>
 <p float="center">
@@ -72,7 +70,6 @@
 
 <hr>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wishy-S&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wishy-S&theme=tokyonight" />
 </p>
 
