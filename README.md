@@ -27,9 +27,8 @@
 - 📫 How to reach me:
 <div align="center">
 
-| &lt;Connect&gt; | Mail | Talk |
-|:----------------|:---------:|:------------| 
-| <a href="https://www.linkedin.com/in/shubham-vyas-99219a138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk2371972@gmail.com) | <a href="https://wishy-s.github.io/Wishy-S/"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="50px" width="50px"></a>|
+<a href="https://www.linkedin.com/in/shubham-vyas-99219a138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp; &nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk2371972@gmail.com) &nbsp; &nbsp;<a href="https://wishy-s.github.io/Wishy-S/"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="50px" width="50px"></a>
 
 </div>
 
@@ -37,30 +36,41 @@
 
 ### &nbsp;Tech Stack
 
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
+<p align="center">
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 80px; height: 80px; margin: 80px;"/>
+    </a>
+    <a href="https://developer.salesforce.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" style="width: 80px; height: 80px; margin: 10px;"/>
+    </a>
+    <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank">
+        <img src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" style="width: 100px; height: 80px; margin: 10px;"/>
+    </a>
 </p>
+
+
+
 
 <hr>
 <b>&#128200; Competitive Programming</b>
